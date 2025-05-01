@@ -24,7 +24,7 @@ CSS – Styling and layout
 
 JavaScript – Functionality and logic
 
-📸 Preview
+
 
 🔗  Demo
 Check it out live
